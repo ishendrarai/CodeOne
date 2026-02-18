@@ -2238,7 +2238,7 @@ SOFTWARE.
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/codeone&type=Date)](https://star-history.com/#yourusername/codeone&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ishendrarai/CodeOne&type=Date)](https://star-history.com/#ishendrarai/CodeOne&Date)
 
 ---
 
@@ -2265,7 +2265,7 @@ CodeOne is here to help you stay consistent, track progress, and achieve mastery
 
 **Give us a ⭐ if CodeOne helps your coding journey!**
 
-[Report Bug](https://github.com/yourusername/codeone/issues) · [Request Feature](https://github.com/yourusername/codeone/issues) · [Join Discord](https://discord.gg/yourserver)
+[Report Bug](https://github.com/ishendrarai/CodeOne/issues) · [Request Feature](https://github.com/ishendrarai/CodeOne/issues) · [Join Discord](https://discord.gg/yourserver)
 
 </div>
 
