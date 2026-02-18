@@ -2080,7 +2080,7 @@ We welcome contributions from the community! Here's how you can help:
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/yourusername/codeone.git
+   git clone https://github.com/ishendrarai/CodeOne.git
    cd codeone
    ```
 
@@ -2170,9 +2170,9 @@ Thanks to all contributors who have helped make CodeOne better! 🙏
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/yourusername">
+      <a href="https://github.com/ishendrari">
         <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
-        <br /><sub><b>Your Name</b></sub>
+        <br /><sub><b>Ishedra Rai</b></sub>
       </a>
       <br />
       <small>Creator & Maintainer</small>
@@ -2220,10 +2220,10 @@ SOFTWARE.
 
 ### Get in Touch
 
-- **Email:** [your@email.com](mailto:your@email.com)
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourname)
+- **Email:** [your@email.com](mailto:ishurai.020805@email.com)
+- **GitHub:** [@yourusername](https://github.com/ishendrarai)
+- **Twitter:** [@yourusername](https://X.com/ishendrarai02)
+- **LinkedIn:** [Your Name](https://linkedin.com/in/ishendrarai)
 - **Discord:** [Join our server](https://discord.gg/yourserver)
 
 ### Project Links
