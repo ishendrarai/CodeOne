@@ -2220,19 +2220,19 @@ SOFTWARE.
 
 ### Get in Touch
 
-- **Email:** [your@email.com](mailto:ishurai.020805@email.com)
-- **GitHub:** [@yourusername](https://github.com/ishendrarai)
-- **Twitter:** [@yourusername](https://X.com/ishendrarai02)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/ishendrarai)
+- **Email:** [ishurai.020805@email.com](mailto:ishurai.020805@email.com)
+- **GitHub:** [@ishendrarai](https://github.com/ishendrarai)
+- **Twitter:** [@ishendrarai02](https://X.com/ishendrarai02)
+- **LinkedIn:** [Ishendra Rai](https://linkedin.com/in/ishendrarai)
 - **Discord:** [Join our server](https://discord.gg/yourserver)
 
 ### Project Links
 
 - **Live Demo:** https://codeone-demo.vercel.app
-- **Repository:** https://github.com/yourusername/codeone
+- **Repository:** https://github.com/ishendrarai/CodeOne
 - **Documentation:** https://docs.codeone.app
-- **Issue Tracker:** https://github.com/yourusername/codeone/issues
-- **Roadmap:** https://github.com/yourusername/codeone/projects
+- **Issue Tracker:** https://github.com/ishendrarai/CodeOne/issues
+- **Roadmap:** https://github.com/ishendrarai/CodeOne/projects
 
 ---
 
