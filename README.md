@@ -97,20 +97,24 @@ CodeOne acts as a **performance intelligence layer** on top of existing platform
 
 ## 🌐 Live Demo
 
-🔗 **https://codeone-demo.vercel.app**  
+> 🚧 **Demo coming soon** — the hosted instance is not yet live. Run locally using the installation steps below.
 
-### Test Credentials
+<!-- 🔗 **https://codeone-demo.vercel.app** — will be enabled once deployed -->
+
+### Test Credentials (local seed)
 
 ```
 Email: demo@codeone.com
 Password: demo123
 ```
 
-> **Note:** Demo account has read-only access with sample data populated.
+> **Note:** Run `npm run seed` in the server directory first to populate sample data.
 
 ---
 
 ## 📸 Screenshots
+
+> 📌 **Note:** Screenshots are committed under `./screenshots/`. If images appear broken after a fresh clone, ensure you have pulled the latest `main` branch. To update screenshots after UI changes, replace the files in `screenshots/` and open a PR.
 
 ### 🎯 Dashboard Overview
 ![Dashboard](./screenshots/dashboard.png)
@@ -213,7 +217,7 @@ Password: demo123
 |------------|---------|
 | 🐘 **PostgreSQL 15** | Primary database |
 | ⚡ **Redis 7** | Caching & streak computation |
-| 🔍 **Prisma/Sequelize** | ORM layer |
+| 🔍 **Prisma** | ORM layer |
 
 ### DevOps & Tools
 | Technology | Purpose |
@@ -1143,9 +1147,6 @@ Edit the `.env` files with your configuration (see [Environment Variables](#-env
 
 ```bash
 cd server
-npm run migrate
-
-# Or if using Prisma
 npx prisma migrate dev
 ```
 
@@ -1456,8 +1457,6 @@ docker-compose down
 #### docker-compose.yml
 
 ```yaml
-version: '3.8'
-
 services:
   postgres:
     image: postgres:15-alpine
@@ -1962,6 +1961,8 @@ A: Absolutely! Create a feature request issue and we'll discuss it with the comm
 
 ## 🤖 AI Vision
 
+> 🚧 **These AI features are planned for Phase 3 and are not yet implemented.** The pseudocode below illustrates the intended design.
+
 ### Planned AI Features
 
 #### 🎯 Personalized Problem Recommendations
@@ -2079,9 +2080,11 @@ We welcome contributions from the community! Here's how you can help:
 ### How to Contribute
 
 1. **Fork the repository**
+   Go to [github.com/ishendrarai/CodeOne](https://github.com/ishendrarai/CodeOne) and click **Fork**, then clone your fork:
    ```bash
-   git clone https://github.com/ishendrarai/CodeOne.git
-   cd codeone
+   git clone https://github.com/YOUR_USERNAME/CodeOne.git
+   cd CodeOne
+   git remote add upstream https://github.com/ishendrarai/CodeOne.git
    ```
 
 2. **Create a feature branch**
@@ -2171,7 +2174,7 @@ Thanks to all contributors who have helped make CodeOne better! 🙏
   <tr>
     <td align="center">
       <a href="https://github.com/ishendrari">
-        <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
+        <img src="https://github.com/ishendrarai.png?size=100" width="100px;" alt=""/>
         <br /><sub><b>Ishedra Rai</b></sub>
       </a>
       <br />
@@ -2188,31 +2191,7 @@ Want to see your name here? [Contribute to CodeOne!](#-contributing)
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 CodeOne Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
