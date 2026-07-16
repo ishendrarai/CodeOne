@@ -2207,7 +2207,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ### Project Links
 
-- **Live Demo:** https://codeone-demo.vercel.app
+- **Live Demo:** <!-- https://codeone-demo.vercel.app (Pending deployment) -->
 - **Repository:** https://github.com/ishendrarai/CodeOne
 - **Documentation:** https://docs.codeone.app
 - **Issue Tracker:** https://github.com/ishendrarai/CodeOne/issues
